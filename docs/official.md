@@ -18,6 +18,7 @@ GitHub should be the main source of information. However; we have 3 domains that
 
 ```
 https://akroma.org
+https://akroma.net
 https://akroma.dev
 https://akroma.network
 ```
