@@ -1,0 +1,14 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+  background-image: url("../../static/img/bg-getting-started.png");
+  background-size: cover;
+  min-height: 820px;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
