@@ -25,12 +25,12 @@ https://akroma.network
 
 ### Wallet
 
-- https://wallet.akroma.org (offical)
+- https://wallet.akroma.org (official)
 
 
 ### Explorer
 
 There are multiple Akroma explorers. 
 
-- https://explorer.akroma.org (offical)
+- https://explorer.akroma.org (official)
 - https://blocks.akroma.wattpool.net/
