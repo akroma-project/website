@@ -23,8 +23,14 @@ https://akroma.dev
 https://akroma.network
 ```
 
+### Wallet
+
+- https://wallet.akroma.org (offical)
+
+
 ### Explorer
 
-At this time we suggest use wattpool's explorer: 
+There are multiple Akroma explorers. 
 
+- https://explorer.akroma.org (offical)
 - https://blocks.akroma.wattpool.net/

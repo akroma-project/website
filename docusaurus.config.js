@@ -56,6 +56,45 @@ const config = {
         ],
       },
       footer: {
+        links: [
+          {
+            title: 'Wallet',
+            items: [
+              {
+                label: 'wallet.akroma.org',
+                href: 'https://wallet.akroma.org',
+              }
+            ],
+          },
+          {
+            title: 'Explorer',
+            items: [
+              {
+                label: 'explorer.akroma.org',
+                href: 'https://explorer.akroma.org',
+              }
+            ],
+          },
+          {
+            title: 'GitHub',
+            items: [
+              {
+                label: 'github.com/akroma-project',
+                href: 'https://github.com/akroma-project/',
+              }
+            ],
+          },
+          {
+            title: 'Mining',
+            items: [
+              {
+                label: 'akroma.wattpool.net',
+                href: 'https://akroma.wattpool.net/',
+              }
+            ],
+          },
+          
+        ],
         style: 'dark',
         copyright: `Copyright © ${new Date().getFullYear()} Akroma.`,
       },
