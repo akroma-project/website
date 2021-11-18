@@ -8,6 +8,10 @@ sidebar_position: 2
 
 - https://github.com/akroma-project
 
+### Twitter
+
+- https://twitter.com/akroma_org
+
 ### Releases
 
 - https://github.com/akroma-project/akroma/releases
